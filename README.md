@@ -7,7 +7,9 @@ As well this is C# cause I like that code language.
 
 I am not using AI to make this
 
-THIS IS NOT AFFILIATED WITH REC ROOM  
+THIS IS NOT AFFILIATED WITH REC ROOM.
+
+This is for servers not localhostable (Well you can try doing it)
 
 # Why did I made this?
 I just want people to know what to start first.
