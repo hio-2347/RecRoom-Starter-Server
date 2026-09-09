@@ -13,6 +13,8 @@ This is for servers not localhostable (Well you can try doing it)
 
 If I’m honest this is just Stella Source code but I’m just fixing it for everyone to use.
 
+Good luck!
+
 # Why did I made this?
 I just want people to know what to start first.
 
