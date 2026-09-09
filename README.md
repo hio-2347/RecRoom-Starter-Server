@@ -10,3 +10,18 @@ I am not using AI to make this
 # Why did I made this?
 I just want people to know what to start first.
 
+# How to set this up
+First, if you have a server download .net and Git the links are here.
+https://git-scm.com/install/linux
+https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-install?tabs=dotnet8&pivots=os-linux-ubuntu-2604
+
+I am pretty sure those are the links and then copy your forked repo and paste it where I tell you to paste it at.
+git pull PASTE HERE
+
+Then after that use “cd your forked repo name”
+After that do dotnet build and dotnet run
+This should make the files to compile and run.
+
+
+# WARNING
+THIS IS STILL BEING WORKED ON SO IT MIGHT BE BROKEN
