@@ -27,3 +27,5 @@ This should make the files to compile and run.
 
 # WARNING
 THIS IS STILL BEING WORKED ON SO IT MIGHT BE BROKEN
+
+And no this is not the actual official backend for Rec Room this is for people who wants to make a revival.
