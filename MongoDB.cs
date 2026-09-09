@@ -8,8 +8,8 @@ namespace RecRoom
 {
     public class MongoDB
     {
-        private static readonly MongoClient mongoClient = new("i'm not that mean");
-        private static readonly IMongoDatabase mongoDatabase = mongoClient.GetDatabase("StellaDB");
+        private static readonly MongoClient mongoClient = new("uh add mongoclient");
+        private static readonly IMongoDatabase mongoDatabase = mongoClient.GetDatabase("RevivalDB");
         public static readonly IMongoCollection<User> usersCollection = mongoDatabase.GetCollection<User>("Users");
         public static readonly IMongoCollection<RoomDetailsMongoDB> roomsCollection = mongoDatabase.GetCollection<RoomDetailsMongoDB>("Rooms");
 
