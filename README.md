@@ -5,7 +5,7 @@ As I’m making this I am taking examples from Stella source code.
 
 As well this is C# cause I like that code language.
 
-I am not using AI to make this
+I am not using AI to make this I might use some in case I don’t understand (But most of this stuff isn’t AI Coded)
 
 THIS IS NOT AFFILIATED WITH REC ROOM.
 
