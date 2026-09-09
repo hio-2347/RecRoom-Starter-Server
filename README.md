@@ -11,6 +11,8 @@ THIS IS NOT AFFILIATED WITH REC ROOM.
 
 This is for servers not localhostable (Well you can try doing it)
 
+If I’m honest this is just Stella Source code but I’m just fixing it for everyone to use.
+
 # Why did I made this?
 I just want people to know what to start first.
 
