@@ -14,7 +14,7 @@ namespace RecRoom.Data.Stuff
                 ValidVersion = false
             };
 
-            if (v != BuildConstants.Version && v != BuildConstants.PCVersion)
+            if (v != BuildVersion.Version && v != BuildConstants.PCVersion)
             {
                 response = new VersionCheckV2ResponseDTO
                 {
@@ -35,7 +35,7 @@ namespace RecRoom.Data.Stuff
                 ValidVersion = false
             };
 
-            if (v != BuildConstants.Version && v != BuildConstants.PCVersion)
+            if (v != BuildVersion.Version && v != BuildConstants.PCVersion)
             {
                 response = new VersionCheckV3ResponseDTO
                 {
@@ -56,7 +56,7 @@ namespace RecRoom.Data.Stuff
                 VersionStatus = VersionStatus.ValidForPlay
             };
 
-            if (v != BuildConstants.Version && v != BuildConstants.PCVersion)
+            if (v != BuildVersion.Version && v != BuildConstants.PCVersion)
             {
                 response = new VersionCheckV4ResponseDTO
                 {
